@@ -1,5 +1,8 @@
 _repo: Une-annee-au-desert-b-Scenes-et-recits-du-Far-West-americain_70084
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70084-h/images/cover.jpg
 creator:
   author:
     agent_name: Nicaise, Auguste
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '55586'
     url: http://www.gutenberg.org/2009/agents/55586
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70084#Une-annee-au-desert-b-Scenes-et-recits-du-Far-West-americain
 gutenberg_issued: '2023-02-20'
 identifiers:
   gutenberg: '70084'
